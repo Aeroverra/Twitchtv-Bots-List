@@ -1,7 +1,7 @@
-# [Twitchtv-Bots-List](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt)
-a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
+# [Twitchtv-Bots-List](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/list.txt)
+a [list](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/list.txt) of (unwanted) known twitch bots that lurk in every channel...
 
-![atenbot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/aten_bot.png)
+![atenbot](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/images/aten_bot.png)
 
 ## definition of a lurker bot:
 * a viewer on the viewer list that --
@@ -13,10 +13,10 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 
 
 ## examples:
-* ![bot](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/easybot1.png)
-* [example list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/thousands_bots.png)
-* [a new one](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/images/d1fss.png)
-* [4469 channels](https://github.com/arrowgent/Twitchtv-Bots-List/commit/ffedd761f1ca9dd629b74ee216c1335c96706c59#commitcomment-51199519)
+* ![bot](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/images/easybot1.png)
+* [example list](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/images/thousands_bots.png)
+* [a new one](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/images/d1fss.png)
+* [4469 channels](https://github.com/aeroverra/Twitchtv-Bots-List/commit/ffedd761f1ca9dd629b74ee216c1335c96706c59#commitcomment-51199519)
 
 
 ## why a list of bots is useful:
@@ -49,10 +49,10 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * hopefully twitch removes bots occasionally.  while updating this list i noticed several are missing.
 * bot changed username - tracking this information was removed from api a few years ago. (see user_id)
 * bot owner intentionally "deactivated" account to escape detection and will reactivate later.
-* use [scripts](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts) or better to quickly verify user information (limitations: helix api)
+* use [scripts](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/scripts) or better to quickly verify user information (limitations: helix api)
 
 
-## my twitch list [script](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/scripts/twlist.sh)
+## my twitch list [script](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/scripts/twlist.sh)
 * this list is designed for gnu/linux, its a bash script
 * for automation, cleaning, checking, and all in one "file" for managing list.txt
 * verifies if user exists on twitch (twitch-dl)
@@ -82,8 +82,8 @@ a [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) of 
 * https://github.com/chaosaudit/twitch_auto_ban
 <br />
 
-note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
+note `commanderroot can be blocked/banned also, even if you use their tool` & i recommend pasting this [list](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/list.txt) into the root ban & block filter tool.
 
 ## Agreement:
 * i am under no agreement to be responsible for the use of names, information, tools, or content provided here.  any use of names here are provided by public lists or api (names are often verified manually) and are subject to change based on accessing those lists.  i am not associated with any website or list provided here or elsewhere; i work independently for my own benefit and uses for other people at my own disgression.  no attempts to circumvent, fraud, or libel of any persons or software.
-* [license](https://github.com/arrowgent/Twitchtv-Bots-List/blob/main/LICENSE.md) is public domain as close as it is possible to recognize, i hold no rights over the use or distribution of "software" or "information" provided here.
+* [license](https://github.com/aeroverra/Twitchtv-Bots-List/blob/main/LICENSE.md) is public domain as close as it is possible to recognize, i hold no rights over the use or distribution of "software" or "information" provided here.
